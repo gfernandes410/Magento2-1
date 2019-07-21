@@ -1,4 +1,4 @@
-![Magento 2](https://cdn.rawgit.com/rafaelstz/magento2-snippets-visualstudio/master/images/icon.png)
+![Magento 2](https://cdn.rawgit.com/gfernandes410/magento2-snippets-visualstudio/master/images/icon.png)
 
 #  Magento 2 Docker to Development
 
@@ -30,7 +30,7 @@ Install [Docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubu
 Execute in your terminal, change the *MYMAGENTO2* to use the name of your project:
 
 ```
-curl -s https://raw.githubusercontent.com/clean-docker/Magento2/master/init | bash -s MYMAGENTO2 clone
+curl -s https://raw.githubusercontent.com/gfernandes410/Magento2/master/init | bash -s MYMAGENTO2 clone
 ```
 
 If you want to install the Magento 2, use like that:
